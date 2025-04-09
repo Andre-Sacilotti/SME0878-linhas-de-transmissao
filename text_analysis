@@ -110,6 +110,7 @@ class Decomposer:
     
     '''
     Retorna dataframe com palavras únicas e sua presença por linha
+        dataset: pd.series de texto
     '''
     def create(self, dataset):
         texts = dataset.fillna('').apply(lambda x: self.filter_text(x))
