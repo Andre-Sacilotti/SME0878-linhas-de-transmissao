@@ -8,7 +8,7 @@ class Decomposer:
     def __init__(self):
         pass
     
-    def filter_text(text):
+    def filter_text(self, text):
         # print(text)
         text = text.upper()
         text = unidecode(text)
@@ -105,7 +105,7 @@ class Decomposer:
             # só ta dando match no primeiro :(
             tags[i] = re.sub(r'(^\s+)|(\s{1,})(?=\s\S)|(\s+$)', '', tags[i])
         tags = list(filter(None, tags))
-        print(tags)
+        # print(tags)
         return tags
     
     '''
