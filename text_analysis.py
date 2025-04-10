@@ -152,7 +152,7 @@ class Decomposer:
             
             temp = [h0 if x == keys[i] else x for x in temp]
         
-        
+        # remover redundantes
         unique_tags = list(set(temp)) 
         matrix = np.zeros((len(tags), len(unique_tags)))
         j = 0
@@ -161,5 +161,21 @@ class Decomposer:
             matrix[i] = [1 if x in words else 0 for x in unique_tags]
             j += len(tags[i])
         wordbox = pd.DataFrame(matrix, columns=unique_tags)
+        
+        corr = wordbox.corr()
+        cols = wordbox.columns.to_list()
+        i = 0
+        while i < len(cols):
+            word = cols[i]
+            # 0.025 de abertura pra erro na covariância
+            matches = corr.loc[corr[word] > 0.975].index.to_list()
+            matches.remove(word)
+            for match in matches:
+                word = word + '_' + match
+                cols.remove(match)
+            wordbox.rename(columns={cols[i]: word}, inplace=True)
+            cols[i] = word
+            i += 1
+        wordbox = wordbox[cols]
         
         return wordbox
