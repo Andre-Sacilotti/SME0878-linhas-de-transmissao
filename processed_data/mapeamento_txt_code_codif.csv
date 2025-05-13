@@ -1,0 +1,839 @@
+Denominação_categoria,Denominação_subcategoria,Cód.valorização,Txt.code codif.,Count
+Acesso e Segurança,Condicao Do Acesso,1.0,CONDIÇÃO NORMAL,2077
+Acesso e Segurança,Condicao Do Acesso,2.0,ROÇAR OU REABRIR,3066
+Acesso e Segurança,Condicao Do Acesso,3.0,INEXISTENTE,12
+Acesso e Segurança,Condicao Do Acesso,4.0,INTERROMPIDO,32
+Acesso e Segurança,Estreitamento Da Faixa,-1.0,Desconhecido,13
+Acesso e Segurança,Estreitamento Da Faixa,1.0,LADO DIREITO,581
+Acesso e Segurança,Estreitamento Da Faixa,1.0,RISCO FUTURO,3
+Acesso e Segurança,Estreitamento Da Faixa,2.0,CONDIÇÃO NORMAL,8
+Acesso e Segurança,Estreitamento Da Faixa,2.0,LADO ESQUERDO,670
+Acesso e Segurança,Estreitamento Da Faixa,3.0,AMBOS OS LADOS,703
+Acesso e Segurança,Estreitamento Da Faixa,5.0,CONDIÇÃO NORMAL,1189
+Acesso e Segurança,Seccinamento Em Cerca Faltante,1.0,ATERRAMENTO FALTANTE,228
+Acesso e Segurança,Seccinamento Em Cerca Faltante,2.0,CONDIÇÃO NORMAL,126
+Acesso e Segurança,Seccinamento Em Cerca Faltante,3.0,SECCIONAMENTO FALTANTE,72
+Acesso e Segurança,Seccinamento Em Cerca Faltante,4.0,ATERR. E SECC. FALTANTE,125
+Acesso e Segurança,Travessia Irregular,1.0,RISCO FUTURO,30
+Acesso e Segurança,Travessia Irregular,2.0,CONDIÇÃO NORMAL,20
+Base e Fundação,Base Alagada,-1.0,Desconhecido,2
+Base e Fundação,Base Alagada,1.0,RISCO FUTURO,42
+Base e Fundação,Base Alagada,2.0,CONDIÇÃO NORMAL,30
+Base e Fundação,Base Assoreada,-1.0,Desconhecido,1
+Base e Fundação,Base Assoreada,1.0,RISCO FUTURO,278
+Base e Fundação,Base Assoreada,2.0,CONDIÇÃO NORMAL,194
+Base e Fundação,Base Assoreada,3.0,CONDIÇÃO PERIGOSA,1
+Base e Fundação,Base Com Formigueiro,1.0,RISCO FUTURO,422
+Base e Fundação,Base Com Formigueiro,2.0,CONDIÇÃO NORMAL,307
+Base e Fundação,Base Desarroreada,1.0,RISCO FUTURO,37
+Base e Fundação,Base Desarroreada,2.0,CONDIÇÃO NORMAL,32
+Base e Fundação,Base Risco D Abalroamento,-1.0,Desconhecido,4
+Base e Fundação,Base Risco D Abalroamento,1.0,RISCO FUTURO,66
+Base e Fundação,Base Risco D Abalroamento,2.0,CONDIÇÃO NORMAL,63
+Base e Fundação,Base Suja,-1.0,Desconhecido,11
+Base e Fundação,Base Suja,1.0,RISCO FUTURO,12021
+Base e Fundação,Base Suja,2.0,CONDIÇÃO NORMAL,8334
+Base e Fundação,Base Suja,3.0,CONDIÇÃO PERIGOSA,5
+Componentes Estruturais,Estrutura,2.0,COM OBJETO ESTRANHO,131
+Componentes Estruturais,Estrutura,3.0,CONDIÇÃO NORMAL,700
+Componentes Estruturais,Estrutura,4.0,FORA DE PRUMO,1
+Componentes Estruturais,Estrutura,5.0,FALTANDO BALISAMENTO,56
+Componentes Estruturais,Estrutura,6.0,ESTAI-RETENSIONAR,378
+Componentes Estruturais,Estrutura,11.0,PIPA/RABIOLA,4
+Componentes Estruturais,Peca Dos Bracos,-1.0,Desconhecido,13
+Componentes Estruturais,Peca Dos Bracos,1.0,CORROSÃO GRAU I,96
+Componentes Estruturais,Peca Dos Bracos,2.0,CORROSÃO GRAU II,256
+Componentes Estruturais,Peca Dos Bracos,3.0,CONDIÇÃO NORMAL,1
+Componentes Estruturais,Peca Dos Bracos,3.0,CORROSÃO GRAU III,153
+Componentes Estruturais,Peca Dos Bracos,5.0,DANIFICADO,46
+Componentes Estruturais,Peca Dos Bracos,6.0,MAL INSTALADO,9
+Componentes Estruturais,Peca Dos Bracos,7.0,FALTANDO,5
+Componentes Estruturais,Peca Dos Bracos,8.0,CONDIÇÃO NORMAL,181
+Componentes Estruturais,Peca Dos Bracos,9.0,INADEQUADO,11
+Componentes Estruturais,Pecas Da Base(Pes),-1.0,Desconhecido,14
+Componentes Estruturais,Pecas Da Base(Pes),1.0,CORROSÃO GRAU I,35
+Componentes Estruturais,Pecas Da Base(Pes),2.0,CORROSÃO GRAU II,37
+Componentes Estruturais,Pecas Da Base(Pes),3.0,CONDIÇÃO NORMAL,1
+Componentes Estruturais,Pecas Da Base(Pes),3.0,CORROSÃO GRAU III,8
+Componentes Estruturais,Pecas Da Base(Pes),5.0,DANIFICADO,112
+Componentes Estruturais,Pecas Da Base(Pes),6.0,MAL INSTALADO,4
+Componentes Estruturais,Pecas Da Base(Pes),7.0,FALTANDO,309
+Componentes Estruturais,Pecas Da Base(Pes),8.0,CONDIÇÃO NORMAL,239
+Componentes Estruturais,Pecas Da Base(Pes),9.0,INADEQUADO,1
+Componentes Estruturais,Pecas Da Base(Pes),10.0,SEM VISUALIZAÇÃO (DRONE),933
+Componentes Estruturais,Pecas Do Corpo,1.0,CORROSÃO GRAU I,83
+Componentes Estruturais,Pecas Do Corpo,2.0,CORROSÃO GRAU II,215
+Componentes Estruturais,Pecas Do Corpo,3.0,CONDIÇÃO NORMAL,1
+Componentes Estruturais,Pecas Do Corpo,3.0,CORROSÃO GRAU III,156
+Componentes Estruturais,Pecas Do Corpo,5.0,DANIFICADO,68
+Componentes Estruturais,Pecas Do Corpo,6.0,MAL INSTALADO,63
+Componentes Estruturais,Pecas Do Corpo,7.0,FALTANDO,95
+Componentes Estruturais,Pecas Do Corpo,8.0,CONDIÇÃO NORMAL,171
+Componentes Estruturais,Pecas Do Corpo,9.0,INADEQUADO,31
+Componentes Estruturais,Pedarol,1.0,FALTANDO,8
+Componentes Estruturais,Pedarol,2.0,CONDIÇÃO NORMAL,1
+Componentes Estruturais,Pedarol,3.0,CONDIÇÃO NORMAL,1
+Componentes Estruturais,Pedarol,3.0,INADEQUADO,1
+Componentes Estruturais,Pedarol,5.0,DANIFICADO,3
+Componentes Estruturais,Vao,3.0,QUEIMADA NA FAIXA,83
+Componentes Estruturais,Vao,4.0,ALTERAÇÃO DO TERRENO,10
+Componentes Estruturais,Vao,8.0,CONDIÇÃO NORMAL,649
+Corrosão,Amortecedor Condutor (Dir/Uni),2.0,MAL INSTALADO,1
+Corrosão,Amortecedor Condutor (Dir/Uni),3.0,CONDIÇÃO NORMAL,2
+Corrosão,Amortecedor Condutor (Dir/Uni),5.0,DANIFICADO,60
+Corrosão,Amortecedor Condutor (Dir/Uni),6.0,FALTANDO,26
+Corrosão,Amortecedor Condutor (Dir/Uni),7.0,MAL INSTALADO,55
+Corrosão,Amortecedor Condutor (Dir/Uni),10.0,CONDIÇÃO NORMAL,8
+Corrosão,Amortecedor Condutor (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,26
+Corrosão,Amortecedor Condutor (Esq),5.0,DANIFICADO,62
+Corrosão,Amortecedor Condutor (Esq),6.0,FALTANDO,5
+Corrosão,Amortecedor Condutor (Esq),7.0,MAL INSTALADO,27
+Corrosão,Amortecedor Condutor (Esq),8.0,INADEQUADO,3
+Corrosão,Amortecedor Condutor (Esq),9.0,COM SINAL DE DESCARGA,2
+Corrosão,Amortecedor Condutor (Esq),10.0,CONDIÇÃO NORMAL,53
+Corrosão,Amortecedor Condutor (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,24
+Corrosão,Amortecedor Para-Raio (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Corrosão,Amortecedor Para-Raio (Dir/Uni),5.0,DANIFICADO,63
+Corrosão,Amortecedor Para-Raio (Dir/Uni),6.0,FALTANDO,4
+Corrosão,Amortecedor Para-Raio (Dir/Uni),7.0,MAL INSTALADO,13
+Corrosão,Amortecedor Para-Raio (Dir/Uni),8.0,INADEQUADO,2
+Corrosão,Amortecedor Para-Raio (Dir/Uni),10.0,CONDIÇÃO NORMAL,6
+Corrosão,Amortecedor Para-Raio (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,9
+Corrosão,Amortecedor Para-Raio (Esq),5.0,DANIFICADO,30
+Corrosão,Amortecedor Para-Raio (Esq),6.0,FALTANDO,3
+Corrosão,Amortecedor Para-Raio (Esq),7.0,MAL INSTALADO,14
+Corrosão,Amortecedor Para-Raio (Esq),10.0,CONDIÇÃO NORMAL,4
+Corrosão,Amortecedor Para-Raio (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,9
+Corrosão,Cabo Condutor (Dir/Uni),5.0,CABO ENGAIOLADO,6
+Corrosão,Cabo Condutor (Dir/Uni),6.0,COM SINAL DE DESCARGA,9
+Corrosão,Cabo Condutor (Dir/Uni),7.0,COM OBJETO ESTRANHO EM RISCO,10
+Corrosão,Cabo Condutor (Dir/Uni),8.0,CONDIÇÃO NORMAL,33629
+Corrosão,Cabo Condutor (Dir/Uni),9.0,CHAMUSCADO,13
+Corrosão,Cabo Condutor (Dir/Uni),11.0,PIPA/RABIOLA,8
+Corrosão,Cabo Condutor (Esq),5.0,CABO ENGAIOLADO,5
+Corrosão,Cabo Condutor (Esq),6.0,COM SINAL DE DESCARGA,9
+Corrosão,Cabo Condutor (Esq),7.0,COM OBJETO ESTRANHO EM RISCO,6
+Corrosão,Cabo Condutor (Esq),8.0,CONDIÇÃO NORMAL,16
+Corrosão,Cabo Condutor (Esq),9.0,CHAMUSCADO,3
+Corrosão,Cabo Condutor (Esq),11.0,PIPA/RABIOLA,3
+Corrosão,Cabo Para-Raio (Dir/Uni),-1.0,Desconhecido,1
+Corrosão,Cabo Para-Raio (Dir/Uni),5.0,ROMPIDO,89
+Corrosão,Cabo Para-Raio (Dir/Uni),6.0,CABO ENGAIOLADO,8
+Corrosão,Cabo Para-Raio (Dir/Uni),7.0,COM OBJETO ESTRANHO EM RISCO,10
+Corrosão,Cabo Para-Raio (Dir/Uni),8.0,COM SINAL DE DESCARGA,21
+Corrosão,Cabo Para-Raio (Dir/Uni),9.0,CHAMUSCADO,5
+Corrosão,Cabo Para-Raio (Dir/Uni),10.0,CONDIÇÃO NORMAL,158
+Corrosão,Cabo Para-Raio (Dir/Uni),11.0,PIPA/RABIOLA,43
+Corrosão,Cabo Para-Raio (Dir/Uni),13.0,ESFORÇO UNILATERAL NA MÍSULA,36
+Corrosão,Cabo Para-Raio (Esq),5.0,ROMPIDO,88
+Corrosão,Cabo Para-Raio (Esq),6.0,CABO ENGAIOLADO,3
+Corrosão,Cabo Para-Raio (Esq),7.0,COM OBJETO ESTRANHO EM RISCO,8
+Corrosão,Cabo Para-Raio (Esq),8.0,COM SINAL DE DESCARGA,14
+Corrosão,Cabo Para-Raio (Esq),10.0,CONDIÇÃO NORMAL,92
+Corrosão,Cabo Para-Raio (Esq),11.0,PIPA/RABIOLA,28
+Corrosão,Cabo Para-Raio (Esq),13.0,ESFORÇO UNILATERAL NA MÍSULA,17
+Corrosão,Cor Isol Jump-Inf/Dir/Exter(Circdir/Uni),1.0,CONDIÇÃO NORMAL,17
+Corrosão,Cor Isol Jump-Inf/Dir/Exter(Circdir/Uni),2.0,CORROSÃO GRAU I,183
+Corrosão,Cor Isol Jump-Inf/Dir/Exter(Circdir/Uni),3.0,CORROSÃO GRAU II,20
+Corrosão,Corro. Emenda/Reparo Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,2
+Corrosão,Corro. Emenda/Reparo Condutor (Dir/Uni),2.0,CORROSÃO GRAU I,3
+Corrosão,Corro. Emenda/Reparo Condutor (Dir/Uni),3.0,CORROSÃO GRAU II,2
+Corrosão,Corro. Emenda/Reparo Condutor (Esq),2.0,CORROSÃO GRAU I,2
+Corrosão,Corro. Emenda/Reparo Condutor (Esq),3.0,CORROSÃO GRAU II,1
+Corrosão,Corro. Emenda/Reparo Para-Raio (Dir/Uni),1.0,CONDIÇÃO NORMAL,10
+Corrosão,Corro. Emenda/Reparo Para-Raio (Dir/Uni),2.0,CORROSÃO GRAU I,16
+Corrosão,Corro. Emenda/Reparo Para-Raio (Dir/Uni),3.0,CORROSÃO GRAU II,8
+Corrosão,Corro. Emenda/Reparo Para-Raio (Dir/Uni),4.0,CORROSÃO GRAU III,3
+Corrosão,Corro. Emenda/Reparo Para-Raio (Esq),1.0,CONDIÇÃO NORMAL,2
+Corrosão,Corro. Emenda/Reparo Para-Raio (Esq),2.0,CORROSÃO GRAU I,17
+Corrosão,Corro. Emenda/Reparo Para-Raio (Esq),3.0,CORROSÃO GRAU II,4
+Corrosão,Corro. Ferrag./Conec. Condutor (Dir/Uni),-1.0,Desconhecido,11
+Corrosão,Corro. Ferrag./Conec. Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,251
+Corrosão,Corro. Ferrag./Conec. Condutor (Dir/Uni),2.0,CORROSÃO GRAU I,2730
+Corrosão,Corro. Ferrag./Conec. Condutor (Dir/Uni),3.0,CORROSÃO GRAU II,284
+Corrosão,Corro. Ferrag./Conec. Condutor (Dir/Uni),4.0,CORROSÃO GRAU III,36
+Corrosão,Corro. Ferrag./Conec. Condutor (Dir/Uni),5.0,CONDIÇÃO PERIGOSA,9
+Corrosão,Corro. Ferrag./Conec. Condutor (Esq),-1.0,Desconhecido,6
+Corrosão,Corro. Ferrag./Conec. Condutor (Esq),1.0,CONDIÇÃO NORMAL,196
+Corrosão,Corro. Ferrag./Conec. Condutor (Esq),2.0,CORROSÃO GRAU I,2675
+Corrosão,Corro. Ferrag./Conec. Condutor (Esq),3.0,CORROSÃO GRAU II,193
+Corrosão,Corro. Ferrag./Conec. Condutor (Esq),4.0,CORROSÃO GRAU III,26
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Dir/Uni),-1.0,Desconhecido,1
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Dir/Uni),1.0,CONDIÇÃO NORMAL,60
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Dir/Uni),2.0,CORROSÃO GRAU I,1391
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Dir/Uni),3.0,CORROSÃO GRAU II,79
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Dir/Uni),4.0,CORROSÃO GRAU III,14
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Esq),1.0,CONDIÇÃO NORMAL,71
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Esq),2.0,CORROSÃO GRAU I,1419
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Esq),3.0,CORROSÃO GRAU II,65
+Corrosão,Corro. Ferrag./Conec. Para-Raio(Esq),4.0,CORROSÃO GRAU III,14
+Corrosão,Corro. Grampo Anco. Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,317
+Corrosão,Corro. Grampo Anco. Condutor (Dir/Uni),2.0,CORROSÃO GRAU I,401
+Corrosão,Corro. Grampo Anco. Condutor (Dir/Uni),3.0,CORROSÃO GRAU II,46
+Corrosão,Corro. Grampo Anco. Condutor (Esq),1.0,CONDIÇÃO NORMAL,29
+Corrosão,Corro. Grampo Anco. Condutor (Esq),2.0,CORROSÃO GRAU I,124
+Corrosão,Corro. Grampo Anco. Condutor (Esq),3.0,CORROSÃO GRAU II,34
+Corrosão,Corro. Grampo Anco. Condutor (Esq),4.0,CORROSÃO GRAU III,7
+Corrosão,Corro. Grampo Anco. Para-Raio (Dir/Uni),1.0,CONDIÇÃO NORMAL,31
+Corrosão,Corro. Grampo Anco. Para-Raio (Dir/Uni),2.0,CORROSÃO GRAU I,75
+Corrosão,Corro. Grampo Anco. Para-Raio (Dir/Uni),3.0,CORROSÃO GRAU II,27
+Corrosão,Corro. Grampo Anco. Para-Raio (Dir/Uni),4.0,CORROSÃO GRAU III,9
+Corrosão,Corro. Grampo Anco. Para-Raio (Esq),1.0,CONDIÇÃO NORMAL,17
+Corrosão,Corro. Grampo Anco. Para-Raio (Esq),2.0,CORROSÃO GRAU I,63
+Corrosão,Corro. Grampo Anco. Para-Raio (Esq),3.0,CORROSÃO GRAU II,13
+Corrosão,Corro. Grampo Anco. Para-Raio (Esq),4.0,CORROSÃO GRAU III,4
+Corrosão,Corro. Grampo Susp. Condutor (Dir/Uni),-1.0,Desconhecido,6
+Corrosão,Corro. Grampo Susp. Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,91
+Corrosão,Corro. Grampo Susp. Condutor (Dir/Uni),2.0,CORROSÃO GRAU I,581
+Corrosão,Corro. Grampo Susp. Condutor (Dir/Uni),3.0,CORROSÃO GRAU II,117
+Corrosão,Corro. Grampo Susp. Condutor (Dir/Uni),4.0,CORROSÃO GRAU III,14
+Corrosão,Corro. Grampo Susp. Condutor (Esq),-1.0,Desconhecido,8
+Corrosão,Corro. Grampo Susp. Condutor (Esq),1.0,CONDIÇÃO NORMAL,66
+Corrosão,Corro. Grampo Susp. Condutor (Esq),2.0,CORROSÃO GRAU I,560
+Corrosão,Corro. Grampo Susp. Condutor (Esq),3.0,CORROSÃO GRAU II,64
+Corrosão,Corro. Grampo Susp. Condutor (Esq),4.0,CORROSÃO GRAU III,9
+Corrosão,Corro. Grampo Susp. Para-Raio (Dir/Uni),1.0,CONDIÇÃO NORMAL,36
+Corrosão,Corro. Grampo Susp. Para-Raio (Dir/Uni),2.0,CORROSÃO GRAU I,235
+Corrosão,Corro. Grampo Susp. Para-Raio (Dir/Uni),3.0,CORROSÃO GRAU II,38
+Corrosão,Corro. Grampo Susp. Para-Raio (Dir/Uni),4.0,CORROSÃO GRAU III,10
+Corrosão,Corro. Grampo Susp. Para-Raio (Esq),1.0,CONDIÇÃO NORMAL,20
+Corrosão,Corro. Grampo Susp. Para-Raio (Esq),2.0,CORROSÃO GRAU I,234
+Corrosão,Corro. Grampo Susp. Para-Raio (Esq),3.0,CORROSÃO GRAU II,26
+Corrosão,Corro. Grampo Susp. Para-Raio (Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Corros Isol Jump-Inf/Dir/Exter(Circ Esq),1.0,CONDIÇÃO NORMAL,19
+Corrosão,Corros Isol Jump-Inf/Dir/Exter(Circ Esq),2.0,CORROSÃO GRAU I,136
+Corrosão,Corros Isol Jump-Inf/Dir/Exter(Circ Esq),3.0,CORROSÃO GRAU II,13
+Corrosão,Corros Isol Jump-Inf/Dir/Exter(Circ Esq),4.0,CORROSÃO GRAU III,6
+Corrosão,Corros Isol Jump-Meio/Inter(Circ Esq),-1.0,Desconhecido,1
+Corrosão,Corros Isol Jump-Meio/Inter(Circ Esq),1.0,CONDIÇÃO NORMAL,24
+Corrosão,Corros Isol Jump-Meio/Inter(Circ Esq),2.0,CORROSÃO GRAU I,136
+Corrosão,Corros Isol Jump-Meio/Inter(Circ Esq),3.0,CORROSÃO GRAU II,22
+Corrosão,Corros Isol Jump-Meio/Inter(Circ Esq),4.0,CORROSÃO GRAU III,5
+Corrosão,Corros Isol Jump-Meio/Inter(Circdir/Uni),-1.0,Desconhecido,1
+Corrosão,Corros Isol Jump-Meio/Inter(Circdir/Uni),1.0,CONDIÇÃO NORMAL,23
+Corrosão,Corros Isol Jump-Meio/Inter(Circdir/Uni),2.0,CORROSÃO GRAU I,184
+Corrosão,Corros Isol Jump-Meio/Inter(Circdir/Uni),3.0,CORROSÃO GRAU II,25
+Corrosão,Corros Isol Jump-Meio/Inter(Circdir/Uni),4.0,CORROSÃO GRAU III,2
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,18
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Dir/Uni),2.0,CORROSÃO GRAU I,188
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Dir/Uni),3.0,CORROSÃO GRAU II,24
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Dir/Uni),4.0,CORROSÃO GRAU III,2
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Esq),1.0,CONDIÇÃO NORMAL,21
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Esq),2.0,CORROSÃO GRAU I,136
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Esq),3.0,CORROSÃO GRAU II,21
+Corrosão,Corros Isol Jump-Sup/Esq(Circ Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Dir/Uni),-1.0,Desconhecido,21
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,281
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Dir/Uni),2.0,CORROSÃO GRAU I,5214
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Dir/Uni),3.0,CORROSÃO GRAU II,255
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Dir/Uni),4.0,CORROSÃO GRAU III,32
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Dir/Uni),5.0,CONDIÇÃO PERIGOSA,1
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Esq),-1.0,Desconhecido,11
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Esq),1.0,CONDIÇÃO NORMAL,231
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Esq),2.0,CORROSÃO GRAU I,4124
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Esq),3.0,CORROSÃO GRAU II,209
+Corrosão,Corros Isol-Inf/Dir/Exter(Circ Esq),4.0,CORROSÃO GRAU III,39
+Corrosão,Corros Isol-Meio/Inter(Circ Dir/Uni),-1.0,Desconhecido,10
+Corrosão,Corros Isol-Meio/Inter(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,297
+Corrosão,Corros Isol-Meio/Inter(Circ Dir/Uni),2.0,CORROSÃO GRAU I,5283
+Corrosão,Corros Isol-Meio/Inter(Circ Dir/Uni),3.0,CORROSÃO GRAU II,259
+Corrosão,Corros Isol-Meio/Inter(Circ Dir/Uni),4.0,CORROSÃO GRAU III,58
+Corrosão,Corros Isol-Meio/Inter(Circ Esq),-1.0,Desconhecido,12
+Corrosão,Corros Isol-Meio/Inter(Circ Esq),1.0,CONDIÇÃO NORMAL,267
+Corrosão,Corros Isol-Meio/Inter(Circ Esq),2.0,CORROSÃO GRAU I,4119
+Corrosão,Corros Isol-Meio/Inter(Circ Esq),3.0,CORROSÃO GRAU II,240
+Corrosão,Corros Isol-Meio/Inter(Circ Esq),4.0,CORROSÃO GRAU III,47
+Corrosão,Corros Isol-Sup/Esq(Circ Dir/Uni),-1.0,Desconhecido,14
+Corrosão,Corros Isol-Sup/Esq(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,303
+Corrosão,Corros Isol-Sup/Esq(Circ Dir/Uni),2.0,CORROSÃO GRAU I,5180
+Corrosão,Corros Isol-Sup/Esq(Circ Dir/Uni),3.0,CORROSÃO GRAU II,324
+Corrosão,Corros Isol-Sup/Esq(Circ Dir/Uni),4.0,CORROSÃO GRAU III,47
+Corrosão,Corros Isol-Sup/Esq(Circ Esq),-1.0,Desconhecido,6
+Corrosão,Corros Isol-Sup/Esq(Circ Esq),1.0,CONDIÇÃO NORMAL,260
+Corrosão,Corros Isol-Sup/Esq(Circ Esq),2.0,CORROSÃO GRAU I,4104
+Corrosão,Corros Isol-Sup/Esq(Circ Esq),3.0,CORROSÃO GRAU II,227
+Corrosão,Corros Isol-Sup/Esq(Circ Esq),4.0,CORROSÃO GRAU III,38
+Corrosão,Corrosao Amortecedor Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,3
+Corrosão,Corrosao Amortecedor Condutor (Dir/Uni),2.0,CORROSÃO GRAU I,10
+Corrosão,Corrosao Amortecedor Condutor (Dir/Uni),3.0,CORROSÃO GRAU II,7
+Corrosão,Corrosao Amortecedor Condutor (Dir/Uni),4.0,CORROSÃO GRAU III,2
+Corrosão,Corrosao Amortecedor Condutor (Esq),1.0,CONDIÇÃO NORMAL,3
+Corrosão,Corrosao Amortecedor Condutor (Esq),2.0,CORROSÃO GRAU I,9
+Corrosão,Corrosao Amortecedor Condutor (Esq),3.0,CORROSÃO GRAU II,2
+Corrosão,Corrosao Amortecedor Condutor (Esq),4.0,CORROSÃO GRAU III,3
+Corrosão,Corrosao Amortecedor Para-Raio (Dir/Uni),1.0,CONDIÇÃO NORMAL,1
+Corrosão,Corrosao Amortecedor Para-Raio (Dir/Uni),2.0,CORROSÃO GRAU I,10
+Corrosão,Corrosao Amortecedor Para-Raio (Esq),1.0,CONDIÇÃO NORMAL,1
+Corrosão,Corrosao Amortecedor Para-Raio (Esq),2.0,CORROSÃO GRAU I,11
+Corrosão,Corrosao Amortecedor Para-Raio (Esq),3.0,CORROSÃO GRAU II,4
+Corrosão,Corrosao Amortecedor Para-Raio (Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Corrosao Cabo Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,6
+Corrosão,Corrosao Cabo Condutor (Dir/Uni),2.0,CORROSÃO GRAU I,16
+Corrosão,Corrosao Cabo Condutor (Dir/Uni),3.0,CORROSÃO GRAU II,2
+Corrosão,Corrosao Cabo Condutor (Dir/Uni),5.0,CONDIÇÃO PERIGOSA,1
+Corrosão,Corrosao Cabo Condutor (Esq),1.0,CONDIÇÃO NORMAL,4
+Corrosão,Corrosao Cabo Condutor (Esq),2.0,CORROSÃO GRAU I,11
+Corrosão,Corrosao Cabo Condutor (Esq),3.0,CORROSÃO GRAU II,2
+Corrosão,Corrosao Cabo Condutor (Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Corrosao Cabo Para-Raio (Dir/Uni),1.0,CONDIÇÃO NORMAL,21
+Corrosão,Corrosao Cabo Para-Raio (Dir/Uni),2.0,CORROSÃO GRAU I,686
+Corrosão,Corrosao Cabo Para-Raio (Dir/Uni),3.0,CORROSÃO GRAU II,122
+Corrosão,Corrosao Cabo Para-Raio (Dir/Uni),4.0,CORROSÃO GRAU III,20
+Corrosão,Corrosao Cabo Para-Raio (Esq),1.0,CONDIÇÃO NORMAL,29
+Corrosão,Corrosao Cabo Para-Raio (Esq),2.0,CORROSÃO GRAU I,721
+Corrosão,Corrosao Cabo Para-Raio (Esq),3.0,CORROSÃO GRAU II,146
+Corrosão,Corrosao Cabo Para-Raio (Esq),4.0,CORROSÃO GRAU III,27
+Corrosão,Corrosao Esfera (Dir/Uni),1.0,CONDIÇÃO NORMAL,8
+Corrosão,Corrosao Esfera (Dir/Uni),2.0,CORROSÃO GRAU I,12
+Corrosão,Corrosao Esfera (Dir/Uni),3.0,CORROSÃO GRAU II,6
+Corrosão,Corrosao Esfera (Esq),1.0,CONDIÇÃO NORMAL,2
+Corrosão,Corrosao Esfera (Esq),2.0,CORROSÃO GRAU I,13
+Corrosão,Corrosao Esfera (Esq),3.0,CORROSÃO GRAU II,7
+Corrosão,Corrosao Espacador (Dir/Uni),1.0,CONDIÇÃO NORMAL,2
+Corrosão,Corrosao Espacador (Dir/Uni),2.0,CORROSÃO GRAU I,233
+Corrosão,Corrosao Espacador (Dir/Uni),3.0,CORROSÃO GRAU II,3
+Corrosão,Corrosao Espacador (Esq),1.0,CONDIÇÃO NORMAL,1
+Corrosão,Corrosao Espacador (Esq),2.0,CORROSÃO GRAU I,234
+Corrosão,Corrosao Espacador (Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Corrosao Jumper (Dir/Uni),1.0,CONDIÇÃO NORMAL,1
+Corrosão,Corrosao Jumper (Dir/Uni),2.0,CORROSÃO GRAU I,6
+Corrosão,Corrosao Jumper (Dir/Uni),3.0,CORROSÃO GRAU II,1
+Corrosão,Corrosao Jumper (Esq),1.0,CONDIÇÃO NORMAL,4
+Corrosão,Corrosao Jumper (Esq),2.0,CORROSÃO GRAU I,6
+Corrosão,Corrosao Jumper (Esq),3.0,CORROSÃO GRAU II,2
+Corrosão,Corrosao Na Estrutura,1.0,CONDIÇÃO NORMAL,73
+Corrosão,Corrosao Na Estrutura,2.0,CORROSÃO GRAU I,1361
+Corrosão,Corrosao Na Estrutura,3.0,CORROSÃO GRAU II,92
+Corrosão,Corrosao Na Estrutura,4.0,CORROSÃO GRAU III,39
+Corrosão,Corrosao Na Grelha,1.0,CONDIÇÃO NORMAL,10
+Corrosão,Corrosao Na Grelha,2.0,CORROSÃO GRAU I,6
+Corrosão,Corrosao Na Grelha,3.0,CORROSÃO GRAU II,29
+Corrosão,Corrosao Na Grelha,4.0,CORROSÃO GRAU III,129
+Corrosão,Corrosao No Cabo/Fita De Contrapeso,-1.0,Desconhecido,2
+Corrosão,Corrosao No Cabo/Fita De Contrapeso,1.0,CONDIÇÃO NORMAL,1
+Corrosão,Corrosao No Cabo/Fita De Contrapeso,2.0,CORROSÃO GRAU I,6
+Corrosão,Corrosao No Cabo/Fita De Contrapeso,3.0,CORROSÃO GRAU II,6
+Corrosão,Corrosao No Cabo/Fita De Contrapeso,4.0,CORROSÃO GRAU III,4
+Corrosão,Corrosao No Conector,1.0,CONDIÇÃO NORMAL,1
+Corrosão,Corrosao No Stub,-1.0,Desconhecido,1
+Corrosão,Corrosao No Stub,1.0,CONDIÇÃO NORMAL,24
+Corrosão,Corrosao No Stub,2.0,CORROSÃO GRAU I,209
+Corrosão,Corrosao No Stub,3.0,CORROSÃO GRAU II,114
+Corrosão,Corrosao No Stub,4.0,CORROSÃO GRAU III,30
+Corrosão,Corrosao Protecao(Chifre/Anel) (Dir/Uni),1.0,CONDIÇÃO NORMAL,25
+Corrosão,Corrosao Protecao(Chifre/Anel) (Dir/Uni),2.0,CORROSÃO GRAU I,153
+Corrosão,Corrosao Protecao(Chifre/Anel) (Dir/Uni),3.0,CORROSÃO GRAU II,45
+Corrosão,Corrosao Protecao(Chifre/Anel) (Esq),1.0,CONDIÇÃO NORMAL,2
+Corrosão,Corrosao Protecao(Chifre/Anel) (Esq),2.0,CORROSÃO GRAU I,147
+Corrosão,Corrosao Protecao(Chifre/Anel) (Esq),3.0,CORROSÃO GRAU II,15
+Corrosão,Corrosao Protecao(Chifre/Anel) (Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Corrosao Rabicho (Dir/Uni),1.0,CONDIÇÃO NORMAL,8
+Corrosão,Corrosao Rabicho (Dir/Uni),2.0,CORROSÃO GRAU I,31
+Corrosão,Corrosao Rabicho (Dir/Uni),3.0,CORROSÃO GRAU II,17
+Corrosão,Corrosao Rabicho (Dir/Uni),4.0,CORROSÃO GRAU III,1
+Corrosão,Corrosao Rabicho (Dir/Uni),5.0,CONDIÇÃO PERIGOSA,1
+Corrosão,Corrosao Rabicho (Esq),1.0,CONDIÇÃO NORMAL,3
+Corrosão,Corrosao Rabicho (Esq),2.0,CORROSÃO GRAU I,53
+Corrosão,Corrosao Rabicho (Esq),3.0,CORROSÃO GRAU II,11
+Corrosão,Corrosao Rabicho (Esq),4.0,CORROSÃO GRAU III,2
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,23
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),2.0,CONDIÇÃO NORMAL,2
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),3.0,INADEQUADO,10
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),4.0,DANIFICADO,6
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),6.0,DANIFICADO,111
+Corrosão,Emenda/Reparo Condutor (Dir/Uni),8.0,CONDIÇÃO NORMAL,4
+Corrosão,Emenda/Reparo Condutor (Esq),1.0,CONDIÇÃO NORMAL,5
+Corrosão,Emenda/Reparo Condutor (Esq),2.0,MAL INSTALADO,1
+Corrosão,Emenda/Reparo Condutor (Esq),3.0,INADEQUADO,6
+Corrosão,Emenda/Reparo Condutor (Esq),4.0,DANIFICADO,3
+Corrosão,Emenda/Reparo Para-Raio (Dir/Uni),1.0,CONDIÇÃO NORMAL,5
+Corrosão,Emenda/Reparo Para-Raio (Dir/Uni),2.0,MAL INSTALADO,7
+Corrosão,Emenda/Reparo Para-Raio (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Corrosão,Emenda/Reparo Para-Raio (Dir/Uni),3.0,INADEQUADO,7
+Corrosão,Emenda/Reparo Para-Raio (Dir/Uni),4.0,DANIFICADO,3
+Corrosão,Emenda/Reparo Para-Raio (Dir/Uni),6.0,DANIFICADO,7
+Corrosão,Emenda/Reparo Para-Raio (Esq),1.0,CONDIÇÃO NORMAL,2
+Corrosão,Emenda/Reparo Para-Raio (Esq),2.0,MAL INSTALADO,5
+Corrosão,Emenda/Reparo Para-Raio (Esq),3.0,INADEQUADO,3
+Corrosão,Emenda/Reparo Para-Raio (Esq),4.0,DANIFICADO,2
+Corrosão,Esfera (Dir/Uni),-1.0,Desconhecido,2
+Corrosão,Esfera (Dir/Uni),1.0,MAL INSTALADO,26
+Corrosão,Esfera (Dir/Uni),2.0,FALTANDO,148
+Corrosão,Esfera (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Corrosão,Esfera (Dir/Uni),3.0,DANIFICADO,157
+Corrosão,Esfera (Dir/Uni),4.0,CONDIÇÃO NORMAL,48
+Corrosão,Esfera (Dir/Uni),5.0,INADEQUADO,21
+Corrosão,Esfera (Dir/Uni),6.0,CONDIÇÃO PERIGOSA,1
+Corrosão,Esfera (Esq),-1.0,Desconhecido,2
+Corrosão,Esfera (Esq),1.0,MAL INSTALADO,14
+Corrosão,Esfera (Esq),2.0,FALTANDO,96
+Corrosão,Esfera (Esq),3.0,DANIFICADO,95
+Corrosão,Esfera (Esq),4.0,CONDIÇÃO NORMAL,29
+Corrosão,Esfera (Esq),5.0,INADEQUADO,13
+Corrosão,Espacador (Dir/Uni),1.0,CONDIÇÃO NORMAL,44
+Corrosão,Espacador (Dir/Uni),2.0,DANIFICADO,56
+Corrosão,Espacador (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Corrosão,Espacador (Dir/Uni),3.0,FALTANDO,3
+Corrosão,Espacador (Dir/Uni),4.0,MAL INSTALADO,21
+Corrosão,Espacador (Dir/Uni),5.0,DANIFICADO,38
+Corrosão,Espacador (Dir/Uni),5.0,INADEQUADO,4
+Corrosão,Espacador (Dir/Uni),6.0,COM SINAL DE DESCARGA,1
+Corrosão,Espacador (Dir/Uni),7.0,COM DESGASTE INICIAL,193
+Corrosão,Espacador (Dir/Uni),7.0,MAL INSTALADO,13
+Corrosão,Espacador (Dir/Uni),8.0,COM DESGASTE MÉDIO,27
+Corrosão,Espacador (Dir/Uni),8.0,INADEQUADO,2
+Corrosão,Espacador (Dir/Uni),9.0,COM DESGASTE ACENTUADO,1
+Corrosão,Espacador (Dir/Uni),10.0,PARAFUSO/PORCA FALTANDO/FROUXO,7
+Corrosão,Espacador (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,1
+Corrosão,Espacador (Esq),1.0,CONDIÇÃO NORMAL,53
+Corrosão,Espacador (Esq),2.0,DANIFICADO,56
+Corrosão,Espacador (Esq),4.0,MAL INSTALADO,46
+Corrosão,Espacador (Esq),5.0,DANIFICADO,17
+Corrosão,Espacador (Esq),5.0,INADEQUADO,2
+Corrosão,Espacador (Esq),7.0,COM DESGASTE INICIAL,189
+Corrosão,Espacador (Esq),7.0,MAL INSTALADO,2
+Corrosão,Espacador (Esq),8.0,COM DESGASTE MÉDIO,23
+Corrosão,Espacador (Esq),10.0,PARAFUSO/PORCA FALTANDO/FROUXO,56
+Corrosão,Espacador (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,2
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),-1.0,Desconhecido,10
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),5.0,DANIFICADO,33
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),6.0,FALTANDO,34
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),7.0,MAL INSTALADO,38
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),8.0,INADEQUADO,38
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),9.0,COM SINAL DE DESCARGA,14
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),10.0,CONDIÇÃO NORMAL,113
+Corrosão,Ferragens/Conectores Condutor (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,139
+Corrosão,Ferragens/Conectores Condutor (Esq),5.0,DANIFICADO,38
+Corrosão,Ferragens/Conectores Condutor (Esq),6.0,FALTANDO,24
+Corrosão,Ferragens/Conectores Condutor (Esq),7.0,MAL INSTALADO,26
+Corrosão,Ferragens/Conectores Condutor (Esq),8.0,INADEQUADO,24
+Corrosão,Ferragens/Conectores Condutor (Esq),9.0,COM SINAL DE DESCARGA,9
+Corrosão,Ferragens/Conectores Condutor (Esq),10.0,CONDIÇÃO NORMAL,119
+Corrosão,Ferragens/Conectores Condutor (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,126
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),-1.0,Desconhecido,1
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),5.0,DANIFICADO,41
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),6.0,FALTANDO,40
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),7.0,MAL INSTALADO,64
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),8.0,INADEQUADO,36
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),9.0,COM SINAL DE DESCARGA,8
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),10.0,CONDIÇÃO NORMAL,63
+Corrosão,Ferragens/Conectores Para-Raio (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,98
+Corrosão,Ferragens/Conectores Para-Raio (Esq),5.0,DANIFICADO,45
+Corrosão,Ferragens/Conectores Para-Raio (Esq),6.0,FALTANDO,14
+Corrosão,Ferragens/Conectores Para-Raio (Esq),7.0,MAL INSTALADO,28
+Corrosão,Ferragens/Conectores Para-Raio (Esq),8.0,INADEQUADO,60
+Corrosão,Ferragens/Conectores Para-Raio (Esq),9.0,COM SINAL DE DESCARGA,8
+Corrosão,Ferragens/Conectores Para-Raio (Esq),10.0,CONDIÇÃO NORMAL,64
+Corrosão,Ferragens/Conectores Para-Raio (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,51
+Corrosão,Fundacao/Stub,1.0,CONDIÇÃO NORMAL,32
+Corrosão,Fundacao/Stub,2.0,DANIFICADO,50
+Corrosão,Fundacao/Stub,3.0,CONDIÇÃO NORMAL,1
+Corrosão,Fundacao/Stub,6.0,DANIFICADO,12
+Corrosão,Jumper (Dir/Uni),1.0,DANIFICADO,62
+Corrosão,Jumper (Dir/Uni),2.0,MAL INSTALADO,11
+Corrosão,Jumper (Dir/Uni),3.0,CONDIÇÃO NORMAL,64
+Corrosão,Jumper (Dir/Uni),4.0,FALTANDO,1
+Corrosão,Jumper (Dir/Uni),5.0,INADEQUADO,22
+Corrosão,Jumper (Dir/Uni),7.0,ENGAIOLADO,1
+Corrosão,Jumper (Esq),1.0,DANIFICADO,41
+Corrosão,Jumper (Esq),2.0,MAL INSTALADO,8
+Corrosão,Jumper (Esq),3.0,CONDIÇÃO NORMAL,60
+Corrosão,Jumper (Esq),5.0,INADEQUADO,28
+Corrosão,Jumper (Esq),7.0,ENGAIOLADO,4
+Corrosão,Protecao Anticorrosiva,1.0,DANIFICADO,20
+Corrosão,Protecao Anticorrosiva,2.0,CONDIÇÃO NORMAL,12
+Corrosão,Protecao Anticorrosiva,3.0,CONDIÇÃO NORMAL,1
+Corrosão,Protecao Anticorrosiva,3.0,INADEQUADO,32
+Corrosão,Protecao Anticorrosiva,5.0,FALTANDO,1068
+Desgastes,Desga. Ferrag./Conec. Condutor (Dir/Uni),1.0,CONDIÇÃO NORMAL,198
+Desgastes,Desga. Ferrag./Conec. Condutor (Dir/Uni),2.0,COM DESGASTE INICIAL,480
+Desgastes,Desga. Ferrag./Conec. Condutor (Dir/Uni),3.0,COM DESGASTE MÉDIO,225
+Desgastes,Desga. Ferrag./Conec. Condutor (Dir/Uni),4.0,COM DESGASTE ACENTUADO,26
+Desgastes,Desga. Ferrag./Conec. Condutor (Esq),1.0,CONDIÇÃO NORMAL,70
+Desgastes,Desga. Ferrag./Conec. Condutor (Esq),2.0,COM DESGASTE INICIAL,438
+Desgastes,Desga. Ferrag./Conec. Condutor (Esq),3.0,COM DESGASTE MÉDIO,123
+Desgastes,Desga. Ferrag./Conec. Condutor (Esq),4.0,COM DESGASTE ACENTUADO,10
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Dir/Uni),1.0,CONDIÇÃO NORMAL,36
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Dir/Uni),2.0,COM DESGASTE INICIAL,66
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Dir/Uni),3.0,COM DESGASTE MÉDIO,42
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Dir/Uni),4.0,COM DESGASTE ACENTUADO,10
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Esq),1.0,CONDIÇÃO NORMAL,39
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Esq),2.0,COM DESGASTE INICIAL,77
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Esq),3.0,COM DESGASTE MÉDIO,39
+Desgastes,Desga. Ferrag./Conec. Para-Raio(Esq),4.0,COM DESGASTE ACENTUADO,13
+Distâncias,Distanca Do Cabo A Via,1.0,RISCO FUTURO,26
+Distâncias,Distanca Do Cabo A Via,2.0,CONDIÇÃO NORMAL,21
+Distâncias,Distancia Ate Aterro,1.0,RISCO FUTURO,5
+Distâncias,Distancia Ate Aterro,2.0,CONDIÇÃO NORMAL,6
+Distâncias,Distancia Ate Buraco,1.0,RISCO FUTURO,38
+Distâncias,Distancia Ate Buraco,2.0,CONDIÇÃO NORMAL,43
+Distâncias,Distancia Ate Erosao,-1.0,Desconhecido,3
+Distâncias,Distancia Ate Erosao,1.0,RISCO FUTURO,228
+Distâncias,Distancia Ate Erosao,2.0,CONDIÇÃO NORMAL,136
+Distâncias,Distancia Ate Escavacao,1.0,RISCO FUTURO,27
+Distâncias,Distancia Ate Escavacao,2.0,CONDIÇÃO NORMAL,26
+Distâncias,Distancia Do Cabo A Lt,-1.0,Desconhecido,1
+Distâncias,Distancia Do Cabo A Lt,1.0,RISCO FUTURO,20
+Distâncias,Distancia Do Cabo A Lt,2.0,CONDIÇÃO NORMAL,19
+Distâncias,Distancia Do Cabo A Vegetacao,-1.0,Desconhecido,23
+Distâncias,Distancia Do Cabo A Vegetacao,1.0,RISCO FUTURO,5195
+Distâncias,Distancia Do Cabo A Vegetacao,2.0,CONDIÇÃO PERIGOSA,14
+Distâncias,Distancia Do Cabo A Vegetacao,3.0,CONDIÇÃO NORMAL,4873
+Distâncias,Distancia Do Cabo Ao Solo,1.0,RISCO FUTURO,33
+Distâncias,Distancia Do Cabo Ao Solo,2.0,CONDIÇÃO NORMAL,21
+Emendas e Jumpers,Bobina De Bloqueio (Dir/Uni),1.0,CONDIÇÃO NORMAL,10
+Emendas e Jumpers,Bobina De Bloqueio (Dir/Uni),2.0,MAL INSTALADO,4
+Emendas e Jumpers,Bobina De Bloqueio (Dir/Uni),3.0,DANIFICADO,2
+Emendas e Jumpers,Bobina De Bloqueio (Esq),1.0,CONDIÇÃO NORMAL,2
+Emendas e Jumpers,Bobina De Bloqueio (Esq),2.0,MAL INSTALADO,2
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),5.0,DANIFICADO,4
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),6.0,FALTANDO,1
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),7.0,MAL INSTALADO,3
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),8.0,INADEQUADO,3
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),10.0,CONDIÇÃO NORMAL,13
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,15
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Esq),5.0,DANIFICADO,1
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Esq),7.0,MAL INSTALADO,4
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Esq),8.0,INADEQUADO,3
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Esq),10.0,CONDIÇÃO NORMAL,5
+Grampos e Fixadores,Grampo De Ancoragem Condutor (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,3
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),5.0,DANIFICADO,2
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),7.0,MAL INSTALADO,4
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),8.0,INADEQUADO,7
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),9.0,COM SINAL DE DESCARGA,10
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),10.0,CONDIÇÃO NORMAL,7
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,5
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Esq),5.0,DANIFICADO,4
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Esq),7.0,MAL INSTALADO,2
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Esq),8.0,INADEQUADO,7
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Esq),9.0,COM SINAL DE DESCARGA,11
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Esq),10.0,CONDIÇÃO NORMAL,12
+Grampos e Fixadores,Grampo De Ancoragem Para-Raio (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,5
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),4.0,CONDIÇÃO PERIGOSA,7
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),5.0,DANIFICADO,22
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),6.0,FALTANDO,2
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),7.0,MAL INSTALADO,290
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),8.0,INADEQUADO,6
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),9.0,COM SINAL DE DESCARGA,4
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),10.0,CONDIÇÃO NORMAL,167
+Grampos e Fixadores,Grampo De Suspensao Condutor (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,35
+Grampos e Fixadores,Grampo De Suspensao Condutor (Esq),5.0,DANIFICADO,17
+Grampos e Fixadores,Grampo De Suspensao Condutor (Esq),7.0,MAL INSTALADO,11
+Grampos e Fixadores,Grampo De Suspensao Condutor (Esq),8.0,INADEQUADO,6
+Grampos e Fixadores,Grampo De Suspensao Condutor (Esq),9.0,COM SINAL DE DESCARGA,8
+Grampos e Fixadores,Grampo De Suspensao Condutor (Esq),10.0,CONDIÇÃO NORMAL,30
+Grampos e Fixadores,Grampo De Suspensao Condutor (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,20
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Dir/Uni),3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Dir/Uni),5.0,DANIFICADO,35
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Dir/Uni),7.0,MAL INSTALADO,30
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Dir/Uni),8.0,INADEQUADO,6
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Dir/Uni),10.0,CONDIÇÃO NORMAL,44
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Dir/Uni),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,17
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),5.0,DANIFICADO,10
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),6.0,FALTANDO,1
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),7.0,MAL INSTALADO,11
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),8.0,INADEQUADO,3
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),9.0,COM SINAL DE DESCARGA,2
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),10.0,CONDIÇÃO NORMAL,27
+Grampos e Fixadores,Grampo De Suspensao Para-Raio (Esq),11.0,PARAFUSO/PORCA FALTANDO/FROUXO,20
+Grampos e Fixadores,Parafuso Do Corpo,-1.0,Desconhecido,1
+Grampos e Fixadores,Parafuso Do Corpo,1.0,CORROSÃO GRAU I,49
+Grampos e Fixadores,Parafuso Do Corpo,2.0,CORROSÃO GRAU II,53
+Grampos e Fixadores,Parafuso Do Corpo,3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Parafuso Do Corpo,3.0,CORROSÃO GRAU III,19
+Grampos e Fixadores,Parafuso Do Corpo,4.0,CONDIÇÃO PERIGOSA,2
+Grampos e Fixadores,Parafuso Do Corpo,5.0,MAL INSTALADO,11
+Grampos e Fixadores,Parafuso Do Corpo,6.0,FALTANDO,25
+Grampos e Fixadores,Parafuso Do Corpo,7.0,CONDIÇÃO NORMAL,60
+Grampos e Fixadores,Parafuso Do Corpo,8.0,INADEQUADO,1
+Grampos e Fixadores,Parafuso Do Corpo,9.0,DANIFICADO,37
+Grampos e Fixadores,Parafuso Dos Bracos,1.0,CORROSÃO GRAU I,10
+Grampos e Fixadores,Parafuso Dos Bracos,2.0,CORROSÃO GRAU II,99
+Grampos e Fixadores,Parafuso Dos Bracos,3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Parafuso Dos Bracos,3.0,CORROSÃO GRAU III,51
+Grampos e Fixadores,Parafuso Dos Bracos,5.0,MAL INSTALADO,46
+Grampos e Fixadores,Parafuso Dos Bracos,6.0,FALTANDO,14
+Grampos e Fixadores,Parafuso Dos Bracos,7.0,CONDIÇÃO NORMAL,93
+Grampos e Fixadores,Parafuso Dos Bracos,9.0,DANIFICADO,5
+Grampos e Fixadores,Parafusos Da Base(Pes),2.0,CORROSÃO GRAU II,4
+Grampos e Fixadores,Parafusos Da Base(Pes),3.0,CONDIÇÃO NORMAL,1
+Grampos e Fixadores,Parafusos Da Base(Pes),3.0,CORROSÃO GRAU III,3
+Grampos e Fixadores,Parafusos Da Base(Pes),6.0,DANIFICADO,1
+Grampos e Fixadores,Parafusos Da Base(Pes),6.0,FALTANDO,20
+Grampos e Fixadores,Parafusos Da Base(Pes),7.0,CONDIÇÃO NORMAL,8
+Grampos e Fixadores,Parafusos Da Base(Pes),9.0,DANIFICADO,2
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),-1.0,Desconhecido,1
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),5.0,FORA DE PRUMO,14
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),6.0,COM SINAL DE DESCARGA,129
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),7.0,CONDIÇÃO NORMAL,100
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),8.0,SUJO / POLUIDO,85
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),9.0,DISCOS QUEBRADOS - CADEIA LEVE,1137
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),10.0,DISCOS QUEBRADOS - CADEIA PESADA,735
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,56
+Isoladores,Isol - Inf/Dir/Exter(Circ Dir/Uni),12.0,CUPILHA/CONTRAPINO FALTANTE,16
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),1.0,CONDIÇÃO NORMAL,1
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),5.0,FORA DE PRUMO,10
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),6.0,COM SINAL DE DESCARGA,132
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),7.0,CONDIÇÃO NORMAL,135
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),8.0,SUJO / POLUIDO,76
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),9.0,DISCOS QUEBRADOS - CADEIA LEVE,583
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),10.0,DISCOS QUEBRADOS - CADEIA PESADA,368
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,36
+Isoladores,Isol - Inf/Dir/Exter(Circ Esq),12.0,CUPILHA/CONTRAPINO FALTANTE,12
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),-1.0,Desconhecido,4
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),5.0,FORA DE PRUMO,14
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),6.0,COM SINAL DE DESCARGA,128
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),7.0,CONDIÇÃO NORMAL,108
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),8.0,SUJO / POLUIDO,159
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),9.0,DISCOS QUEBRADOS - CADEIA LEVE,1024
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),10.0,DISCOS QUEBRADOS - CADEIA PESADA,657
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,42
+Isoladores,Isol - Meio/Inter (Circ Dir/Uni),12.0,CUPILHA/CONTRAPINO FALTANTE,20
+Isoladores,Isol - Meio/Inter (Circ Esq),5.0,FORA DE PRUMO,9
+Isoladores,Isol - Meio/Inter (Circ Esq),6.0,COM SINAL DE DESCARGA,134
+Isoladores,Isol - Meio/Inter (Circ Esq),7.0,CONDIÇÃO NORMAL,121
+Isoladores,Isol - Meio/Inter (Circ Esq),8.0,SUJO / POLUIDO,77
+Isoladores,Isol - Meio/Inter (Circ Esq),9.0,DISCOS QUEBRADOS - CADEIA LEVE,443
+Isoladores,Isol - Meio/Inter (Circ Esq),10.0,DISCOS QUEBRADOS - CADEIA PESADA,253
+Isoladores,Isol - Meio/Inter (Circ Esq),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,33
+Isoladores,Isol - Meio/Inter (Circ Esq),12.0,CUPILHA/CONTRAPINO FALTANTE,12
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),5.0,FORA DE PRUMO,18
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),6.0,COM SINAL DE DESCARGA,243
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),7.0,CONDIÇÃO NORMAL,190
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),8.0,SUJO / POLUIDO,151
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),9.0,DISCOS QUEBRADOS - CADEIA LEVE,1480
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),10.0,DISCOS QUEBRADOS - CADEIA PESADA,597
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,123
+Isoladores,Isol - Sup/Esq (Circ Dir/Uni),12.0,CUPILHA/CONTRAPINO FALTANTE,49
+Isoladores,Isol - Sup/Esq (Circ Esq),5.0,FORA DE PRUMO,8
+Isoladores,Isol - Sup/Esq (Circ Esq),6.0,COM SINAL DE DESCARGA,191
+Isoladores,Isol - Sup/Esq (Circ Esq),7.0,CONDIÇÃO NORMAL,153
+Isoladores,Isol - Sup/Esq (Circ Esq),8.0,SUJO / POLUIDO,77
+Isoladores,Isol - Sup/Esq (Circ Esq),9.0,DISCOS QUEBRADOS - CADEIA LEVE,407
+Isoladores,Isol - Sup/Esq (Circ Esq),10.0,DISCOS QUEBRADOS - CADEIA PESADA,259
+Isoladores,Isol - Sup/Esq (Circ Esq),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,20
+Isoladores,Isol - Sup/Esq (Circ Esq),12.0,CUPILHA/CONTRAPINO FALTANTE,18
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),5.0,FORA DE PRUMO,3
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),6.0,COM SINAL DE DESCARGA,2
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),7.0,CONDIÇÃO NORMAL,3
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),8.0,SUJO / POLUIDO,3
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),9.0,DISCOS QUEBRADOS - CADEIA LEVE,61
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),10.0,DISCOS QUEBRADOS - CADEIA PESADA,10
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,2
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Dir/Uni),12.0,CUPILHA/CONTRAPINO FALTANTE,1
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),6.0,COM SINAL DE DESCARGA,4
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),7.0,CONDIÇÃO NORMAL,5
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),8.0,SUJO / POLUIDO,4
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),9.0,DISCOS QUEBRADOS - CADEIA LEVE,29
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),10.0,DISCOS QUEBRADOS - CADEIA PESADA,14
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,3
+Isoladores,Isol Jumpers-Inf/Dir/Exter(Cir Esq),12.0,CUPILHA/CONTRAPINO FALTANTE,2
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),6.0,COM SINAL DE DESCARGA,3
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),7.0,CONDIÇÃO NORMAL,4
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),8.0,SUJO / POLUIDO,3
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),9.0,DISCOS QUEBRADOS - CADEIA LEVE,27
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),10.0,DISCOS QUEBRADOS - CADEIA PESADA,1
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,2
+Isoladores,Isol Jumpers-Meio/Inter(Circ Esq),12.0,CUPILHA/CONTRAPINO FALTANTE,1
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),6.0,COM SINAL DE DESCARGA,3
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),7.0,CONDIÇÃO NORMAL,4
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),8.0,SUJO / POLUIDO,3
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),9.0,DISCOS QUEBRADOS - CADEIA LEVE,12
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),10.0,DISCOS QUEBRADOS - CADEIA PESADA,10
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),11.0,CUPILHA/CONTRAPINO MAL INSTALADA,1
+Isoladores,Isol Jumpers-Sup/Esq(Circ Esq),12.0,CUPILHA/CONTRAPINO FALTANTE,1
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),5.0,FORA DE PRUMO,2
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),6.0,COM SINAL DE DESCARGA,1
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),7.0,CONDIÇÃO NORMAL,4
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),8.0,SUJO / POLUIDO,3
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),9.0,DISCOS QUEBRADOS - CADEIA LEVE,38
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),10.0,DISCOS QUEBRADOS - CADEIA PESADA,11
+Isoladores,Isol Jumpers-Sup/Esqu(Circ Dir/Uni),12.0,CUPILHA/CONTRAPINO FALTANTE,2
+Isoladores,Isol Jupers-Meio/Inter(Circ Dir/Uni),6.0,COM SINAL DE DESCARGA,2
+Isoladores,Isol Jupers-Meio/Inter(Circ Dir/Uni),7.0,CONDIÇÃO NORMAL,5
+Isoladores,Isol Jupers-Meio/Inter(Circ Dir/Uni),8.0,SUJO / POLUIDO,6
+Isoladores,Isol Jupers-Meio/Inter(Circ Dir/Uni),9.0,DISCOS QUEBRADOS - CADEIA LEVE,39
+Isoladores,Isol Jupers-Meio/Inter(Circ Dir/Uni),10.0,DISCOS QUEBRADOS - CADEIA PESADA,9
+Isoladores,Isol Jupers-Meio/Inter(Circ Dir/Uni),12.0,CUPILHA/CONTRAPINO FALTANTE,6
+Outros,Defensa Faltante,-1.0,Desconhecido,4
+Outros,Defensa Faltante,1.0,RISCO FUTURO,1529
+Outros,Defensa Faltante,2.0,CONDIÇÃO NORMAL,773
+Outros,Placa,-1.0,Desconhecido,5
+Outros,Placa,3.0,CONDIÇÃO NORMAL,1
+Outros,Placa,4.0,CONDIÇÃO PERIGOSA,1
+Outros,Placa,5.0,IDENTIFICAÇÃO FALTANTE,1231
+Outros,Placa,6.0,IDENTIFICAÇÃO APAGADA,6051
+Outros,Placa,7.0,CONDIÇÃO NORMAL,2279
+Outros,Placa,8.0,ADVERTÊNCIA FALTANTE,1038
+Outros,Placa,9.0,ADVERTÊNCIA APAGADA,250
+Outros,Rabicho (Dir/Uni),-1.0,Desconhecido,4
+Outros,Rabicho (Dir/Uni),1.0,FALTANDO,33
+Outros,Rabicho (Dir/Uni),2.0,MAL INSTALADO,245
+Outros,Rabicho (Dir/Uni),3.0,CONDIÇÃO NORMAL,336
+Outros,Rabicho (Dir/Uni),5.0,INADEQUADO,77
+Outros,Rabicho (Dir/Uni),6.0,DANIFICADO,169
+Outros,Rabicho (Esq),-1.0,Desconhecido,1
+Outros,Rabicho (Esq),1.0,FALTANDO,32
+Outros,Rabicho (Esq),2.0,MAL INSTALADO,124
+Outros,Rabicho (Esq),3.0,CONDIÇÃO NORMAL,229
+Outros,Rabicho (Esq),5.0,INADEQUADO,69
+Outros,Rabicho (Esq),6.0,DANIFICADO,144
+Proteções e Acessórios,Cabo/Fita De Contrapeso,4.0,EXPOSTO,20
+Proteções e Acessórios,Cabo/Fita De Contrapeso,5.0,ROMPIDO,755
+Proteções e Acessórios,Cabo/Fita De Contrapeso,6.0,INADEQUADO,13
+Proteções e Acessórios,Cabo/Fita De Contrapeso,7.0,CONDIÇÃO NORMAL,235
+Proteções e Acessórios,Cabo/Fita De Contrapeso,8.0,MAL INSTALADO,100
+Proteções e Acessórios,Cabo/Fita De Contrapeso,9.0,DANIFICADO,5
+Proteções e Acessórios,Cabo/Fita De Contrapeso,10.0,FALTANDO,859
+Proteções e Acessórios,Conector De Aterramento,1.0,FALTANDO,149
+Proteções e Acessórios,Conector De Aterramento,2.0,MAL INSTALADO,6
+Proteções e Acessórios,Conector De Aterramento,3.0,CONDIÇÃO NORMAL,58
+Proteções e Acessórios,Conector De Aterramento,6.0,DANIFICADO,8
+Proteções e Acessórios,Proteção (Chifre / Anel) (Dir/Uni),1.0,DANIFICADO,28
+Proteções e Acessórios,Proteção (Chifre / Anel) (Dir/Uni),1.0,FALTANDO,1
+Proteções e Acessórios,Proteção (Chifre / Anel) (Dir/Uni),2.0,CONDIÇÃO NORMAL,55
+Proteções e Acessórios,Proteção (Chifre / Anel) (Dir/Uni),3.0,INADEQUADO,33
+Proteções e Acessórios,Proteção (Chifre / Anel) (Dir/Uni),4.0,MAL INSTALADO,9
+Proteções e Acessórios,Proteção (Chifre / Anel) (Dir/Uni),5.0,FALTANDO,17
+Proteções e Acessórios,Proteção (Chifre / Anel) (Esq),1.0,DANIFICADO,15
+Proteções e Acessórios,Proteção (Chifre / Anel) (Esq),2.0,CONDIÇÃO NORMAL,12
+Proteções e Acessórios,Proteção (Chifre / Anel) (Esq),3.0,INADEQUADO,4
+Proteções e Acessórios,Proteção (Chifre / Anel) (Esq),4.0,MAL INSTALADO,12
+Proteções e Acessórios,Proteção (Chifre / Anel) (Esq),5.0,FALTANDO,7
+Sinalização Aérea,Sinalizacao Aerea,-1.0,Desconhecido,6
+Sinalização Aérea,Sinalizacao Aerea,1.0,DANIFICADO,137
+Sinalização Aérea,Sinalizacao Aerea,2.0,CONDIÇÃO NORMAL,127
+Sinalização Aérea,Sinalizacao Aerea,3.0,CONDIÇÃO NORMAL,1
+Sinalização Aérea,Sinalizacao Aerea,3.0,INADEQUADO,41
+Sinalização Aérea,Sinalizacao Aerea,5.0,FALTANDO,118
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,50
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),2.0,CONEXAO,37
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),3.0,EMENDA,1
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),5.0,BOBINA DE BLOQUEIO,2
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),6.0,CONEXÃO APARAFUSADA CC,6
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),8.0,CONEXÕES PRENSADAS CC-CHAPA/CHAPA,23
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),9.0,EMENDAS PRÉ-FORMADA CC,2
+Temperatura,Temp-Inf/Dir/Exter(Circ Dir/Uni),10.0,EMENDAS PRENSADAS CC,2
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),1.0,CONDIÇÃO NORMAL,36
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),2.0,CONEXAO,25
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),5.0,BOBINA DE BLOQUEIO,1
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),6.0,CONEXÃO APARAFUSADA CC,4
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),7.0,CONEXÕES PRENSADAS CC/CONECTOR,1
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),8.0,CONEXÕES PRENSADAS CC-CHAPA/CHAPA,19
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),9.0,EMENDAS PRÉ-FORMADA CC,2
+Temperatura,Temp-Inf/Dir/Exter(Circ Esq),10.0,EMENDAS PRENSADAS CC,1
+Temperatura,Temp-Meio/Inter(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,46
+Temperatura,Temp-Meio/Inter(Circ Dir/Uni),2.0,CONEXAO,37
+Temperatura,Temp-Meio/Inter(Circ Dir/Uni),6.0,CONEXÃO APARAFUSADA CC,7
+Temperatura,Temp-Meio/Inter(Circ Dir/Uni),7.0,CONEXÕES PRENSADAS CC/CONECTOR,1
+Temperatura,Temp-Meio/Inter(Circ Dir/Uni),8.0,CONEXÕES PRENSADAS CC-CHAPA/CHAPA,22
+Temperatura,Temp-Meio/Inter(Circ Dir/Uni),10.0,EMENDAS PRENSADAS CC,2
+Temperatura,Temp-Meio/Inter(Circ Esq),-1.0,Desconhecido,1
+Temperatura,Temp-Meio/Inter(Circ Esq),1.0,CONDIÇÃO NORMAL,57
+Temperatura,Temp-Meio/Inter(Circ Esq),2.0,CONEXAO,51
+Temperatura,Temp-Meio/Inter(Circ Esq),3.0,EMENDA,1
+Temperatura,Temp-Meio/Inter(Circ Esq),5.0,BOBINA DE BLOQUEIO,2
+Temperatura,Temp-Meio/Inter(Circ Esq),6.0,CONEXÃO APARAFUSADA CC,7
+Temperatura,Temp-Meio/Inter(Circ Esq),7.0,CONEXÕES PRENSADAS CC/CONECTOR,1
+Temperatura,Temp-Meio/Inter(Circ Esq),8.0,CONEXÕES PRENSADAS CC-CHAPA/CHAPA,20
+Temperatura,Temp-Meio/Inter(Circ Esq),10.0,EMENDAS PRENSADAS CC,2
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,56
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),2.0,CONEXAO,37
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),3.0,EMENDA,1
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),5.0,BOBINA DE BLOQUEIO,1
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),6.0,CONEXÃO APARAFUSADA CC,8
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),8.0,CONEXÕES PRENSADAS CC-CHAPA/CHAPA,25
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),9.0,EMENDAS PRÉ-FORMADA CC,2
+Temperatura,Temp-Sup/Esq(Circ Dir/Uni),10.0,EMENDAS PRENSADAS CC,2
+Temperatura,Temp-Sup/Esq(Circ Esq),1.0,CONDIÇÃO NORMAL,53
+Temperatura,Temp-Sup/Esq(Circ Esq),2.0,CONEXAO,39
+Temperatura,Temp-Sup/Esq(Circ Esq),6.0,CONEXÃO APARAFUSADA CC,8
+Temperatura,Temp-Sup/Esq(Circ Esq),8.0,CONEXÕES PRENSADAS CC-CHAPA/CHAPA,21
+Temperatura,Temp-Sup/Esq(Circ Esq),9.0,EMENDAS PRÉ-FORMADA CC,2
+Temperatura,Temp-Sup/Esq(Circ Esq),10.0,EMENDAS PRENSADAS CC,2
+Temperatura,Temperatura Pr (Dir/Uni),1.0,CONDIÇÃO NORMAL,17
+Temperatura,Temperatura Pr (Dir/Uni),2.0,CONEXAO,18
+Temperatura,Temperatura Pr (Dir/Uni),3.0,EMENDA PRÉ-FORMADA E PRENSADA,1
+Temperatura,Temperatura Pr (Dir/Uni),4.0,FERRAGEM,8
+Temperatura,Temperatura Pr (Esq),1.0,CONDIÇÃO NORMAL,10
+Temperatura,Temperatura Pr (Esq),2.0,CONEXAO,3
+Temperatura,Temperatura Pr (Esq),3.0,EMENDA PRÉ-FORMADA E PRENSADA,1
+Temperatura,Temperatura Pr (Esq),4.0,FERRAGEM,7
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,28
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Dir/Uni),2.0,AFASTADO DE COMPONENTES,12
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Dir/Uni),3.0,PROXIMO DE COMPONENTES,17
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Esq),-1.0,Desconhecido,1
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Esq),1.0,CONDIÇÃO NORMAL,14
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Esq),2.0,AFASTADO DE COMPONENTES,7
+Tentos Rompidos,Tento Romp-Inf/Dir/Exter(Circ Esq),3.0,PROXIMO DE COMPONENTES,12
+Tentos Rompidos,Tento Romp-Meio/Inter(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,20
+Tentos Rompidos,Tento Romp-Meio/Inter(Circ Dir/Uni),3.0,PROXIMO DE COMPONENTES,19
+Tentos Rompidos,Tento Romp-Meio/Inter(Circ Esq),1.0,CONDIÇÃO NORMAL,11
+Tentos Rompidos,Tento Romp-Meio/Inter(Circ Esq),2.0,AFASTADO DE COMPONENTES,2
+Tentos Rompidos,Tento Romp-Meio/Inter(Circ Esq),3.0,PROXIMO DE COMPONENTES,7
+Tentos Rompidos,Tento Romp-Sup/Esq(Circ Dir/Uni),-1.0,Desconhecido,2
+Tentos Rompidos,Tento Romp-Sup/Esq(Circ Dir/Uni),1.0,CONDIÇÃO NORMAL,19
+Tentos Rompidos,Tento Romp-Sup/Esq(Circ Dir/Uni),2.0,AFASTADO DE COMPONENTES,10
+Tentos Rompidos,Tento Romp-Sup/Esq(Circ Dir/Uni),3.0,PROXIMO DE COMPONENTES,11
+Tentos Rompidos,Tento Romp-Sup/Esq(Circ Esq),1.0,CONDIÇÃO NORMAL,7
+Tentos Rompidos,Tento Romp-Sup/Esq(Circ Esq),3.0,PROXIMO DE COMPONENTES,12
+Tentos Rompidos,Tento Rompido(Dir/Uni),-1.0,Desconhecido,8
+Tentos Rompidos,Tento Rompido(Dir/Uni),1.0,CONDIÇÃO NORMAL,47
+Tentos Rompidos,Tento Rompido(Dir/Uni),2.0,AFASTADO DE COMPONENTES,110
+Tentos Rompidos,Tento Rompido(Dir/Uni),3.0,PROXIMO DE COMPONENTES,18
+Tentos Rompidos,Tento Rompido(Esq),-1.0,Desconhecido,1
+Tentos Rompidos,Tento Rompido(Esq),1.0,CONDIÇÃO NORMAL,71
+Tentos Rompidos,Tento Rompido(Esq),2.0,AFASTADO DE COMPONENTES,153
+Tentos Rompidos,Tento Rompido(Esq),3.0,PROXIMO DE COMPONENTES,19
+Vegetação e Limpeza,Entulho,1.0,RISCO FUTURO,642
+Vegetação e Limpeza,Entulho,2.0,CONDIÇÃO NORMAL,61
+Vegetação e Limpeza,Invasao,-1.0,Desconhecido,5
+Vegetação e Limpeza,Invasao,1.0,CONDIÇÃO NORMAL,134
+Vegetação e Limpeza,Invasao,2.0,SIM,9
+Vegetação e Limpeza,Invasao,3.0,RISCO FUTURO,1770
+Vegetação e Limpeza,Invasao,4.0,MURO,41
+Vegetação e Limpeza,Invasao,5.0,FS - MURETA,10
+Vegetação e Limpeza,Invasao,6.0,FS - CALÇADA,17
+Vegetação e Limpeza,Invasao,7.0,FS - INVASÃO - COM NOTIFICACAO,73
+Vegetação e Limpeza,Invasao,9.0,FS - MURO - COM NOTIFICACAO,1
+Vegetação e Limpeza,Invasao,10.0,FS - MURETA - COM NOTIFICACAO,2
+Vegetação e Limpeza,Invasao,11.0,FS - CALÇADA - COM NOTIFICACAO,1
+Vegetação e Limpeza,Ninho De Pássaro,-1.0,Desconhecido,37
+Vegetação e Limpeza,Ninho De Pássaro,1.0,NINHO NO CORPO DA ESTRUTURA,356
+Vegetação e Limpeza,Ninho De Pássaro,2.0,NINHO EM LOCAL DE RISCO,377
+Vegetação e Limpeza,Ninho De Pássaro,3.0,CONDIÇÃO PERIGOSA,4
+Vegetação e Limpeza,Ninho De Pássaro,4.0,CONDIÇÃO NORMAL,721
+Vegetação e Limpeza,Ninho De Pássaro,5.0,PROTETOR ANTI-PASSARO FALTANTE,121
+Vegetação e Limpeza,Poda,-1.0,Desconhecido,1
+Vegetação e Limpeza,Poda,1.0,INICIO DO VAO,202
+Vegetação e Limpeza,Poda,2.0,MEIO DO VAO,529
+Vegetação e Limpeza,Poda,3.0,FIM DO VAO,221
+Vegetação e Limpeza,Poda,4.0,INICIO E MEIO DO VAO,24
+Vegetação e Limpeza,Poda,5.0,MEIO E FIM DO VAO,23
+Vegetação e Limpeza,Poda,6.0,INICIO E FIM DO VAO,16
+Vegetação e Limpeza,Poda,7.0,VAO COMPLETO,359
+Vegetação e Limpeza,Poda,8.0,CONDIÇÃO NORMAL,1184
+Vegetação e Limpeza,Rocada Manual,-1.0,Desconhecido,37
+Vegetação e Limpeza,Rocada Manual,1.0,INICIO DO VAO,3786
+Vegetação e Limpeza,Rocada Manual,2.0,MEIO DO VAO,6246
+Vegetação e Limpeza,Rocada Manual,3.0,FIM DO VAO,2140
+Vegetação e Limpeza,Rocada Manual,4.0,INICIO E MEIO DO VAO,963
+Vegetação e Limpeza,Rocada Manual,5.0,MEIO E FIM DO VAO,897
+Vegetação e Limpeza,Rocada Manual,6.0,INICIO E FIM DO VAO,1650
+Vegetação e Limpeza,Rocada Manual,7.0,VAO COMPLETO,5917
+Vegetação e Limpeza,Rocada Manual,8.0,CONDIÇÃO NORMAL,16373
+Vegetação e Limpeza,Rocada Manual,9.0,ROÇADA MOTORIZADA,472
+Vegetação e Limpeza,Rocada Mecanizada,-1.0,Desconhecido,15
+Vegetação e Limpeza,Rocada Mecanizada,1.0,INICIO DO VAO,811
+Vegetação e Limpeza,Rocada Mecanizada,2.0,MEIO DO VAO,2465
+Vegetação e Limpeza,Rocada Mecanizada,3.0,FIM DO VAO,729
+Vegetação e Limpeza,Rocada Mecanizada,4.0,INICIO E MEIO DO VAO,417
+Vegetação e Limpeza,Rocada Mecanizada,5.0,MEIO E FIM DO VAO,488
+Vegetação e Limpeza,Rocada Mecanizada,6.0,INICIO E FIM DO VAO,435
+Vegetação e Limpeza,Rocada Mecanizada,7.0,VAO COMPLETO,8214
+Vegetação e Limpeza,Rocada Mecanizada,8.0,CONDIÇÃO NORMAL,11963
+Vegetação e Limpeza,Rocada Mecanizada,9.0,ROÇADA MOTORIZADA,28
