@@ -11,7 +11,7 @@ Este projeto realiza análise de dados de linhas de transmissão utilizando info
 pip install -r requirements.txt
 ```
 
-## Estrutura de Dados
+## Configuração da Base de Dados
 
 Para executar o projeto, é necessário ter os seguintes arquivos na pasta `data/`:
 
